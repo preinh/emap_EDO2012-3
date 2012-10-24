@@ -1,0 +1,7 @@
+http://en.wikipedia.org/wiki/Logistic_function
+http://www.ugrad.math.ubc.ca/coursedoc/math101/notes/moreApps/harvesting.html
+
+examples:
+http://demonstrations.wolfram.com/TheGordonSchaeferModel/
+http://mathworld.wolfram.com/LogisticMap.html
+

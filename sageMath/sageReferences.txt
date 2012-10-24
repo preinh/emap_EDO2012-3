@@ -1,0 +1,6 @@
+http://www-rohan.sdsu.edu/~mosulliv/sagetutorial/sagecalc.html
+http://www.sagemath.org/doc/reference/sage/calculus/desolvers.html
+http://www.sagemath.org/doc/reference/sage/plot/plot_field.html
+
+eulerMethod
+http://www.sagemath.org/doc/tutorial/tour_algebra.html
